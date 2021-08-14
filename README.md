@@ -10,7 +10,7 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
 ---
 
 <details>
-  <summary>📦 Packages on PyPi</summary>
+  <summary>📦 Packages on PyPi</summary><br>
   
   
 
@@ -24,7 +24,7 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
 </details>
   
 <details>
-  <summary>📫 How to reach me</summary>
+  <summary>📫 How to reach me</summary><br>
 
 
   <a href="https://www.linkedin.com/in/lukajovanovic97/">
