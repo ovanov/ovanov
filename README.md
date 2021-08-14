@@ -1,11 +1,7 @@
+### Hi there 👋 I'm Luka 😄
 
-<h1 align='center'>
-  Hi there 👋 I'm Luka 😄
-</h1>
 
-<p align='center'>
-  I'm studying Linguistics and Computational Linguistics at the University of Zurich. Part-time I work as a programmer and IT-assistant for the [AfZ](https://www.afz.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I'm interested in workflow optimization and try to create packages and scripts accordingly.
-</p><br/>
+I'm studying Linguistics and Computational Linguistics at the University of Zurich. Part-time I work as a programmer and IT-assistant for the [AfZ](https://www.afz.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I'm interested in workflow optimization and try to create packages and scripts accordingly.
 
 
 📫 How to reach me:
@@ -16,12 +12,13 @@
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/jovanobabovic">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;<br/>
+  </a>&nbsp;&nbsp;
  
+---
 
+🔭 I’m currently working on the [file converter](https://github.com/ovanov/fileconv) tool for the [AfZ](https://www.afz.ethz.ch/)<br/>
 
-🔭 I’m currently working on my [file converter](https://github.com/ovanov/fileconv) tool<br/>
-
+---
 
 <details>
   <summary>📦 Packages on PyPi</summary>
