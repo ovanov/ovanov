@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Luka 😄
 
 
-<p>I'm studying Linguistics and Computational Linguistics at the University of Zurich. Part-time I work as a programmer and IT-assistant for the [AfZ](https://www.afz.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I'm interested in workflow optimization and try to create packages and scripts accordingly.</p><br>
+I'm studying Linguistics and Computational Linguistics at the University of Zurich. Part-time I work as a programmer and IT-assistant for the [AfZ](https://www.afz.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I'm interested in workflow optimization and try to create packages and scripts accordingly.
 
 
 
