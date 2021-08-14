@@ -4,17 +4,6 @@
 I'm studying Linguistics and Computational Linguistics at the University of Zurich. Part-time I work as a programmer and IT-assistant for the [AfZ](https://www.afz.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html). I'm interested in workflow optimization and try to create packages and scripts accordingly.
 
 
-📫 How to reach me:
-
-
-  <a href="https://www.linkedin.com/in/lukajovanovic97/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/jovanobabovic">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- 
----
 
 🔭 I’m currently working on the [file converter](https://github.com/ovanov/fileconv) tool for the [AfZ](https://www.afz.ethz.ch/)<br/>
 
@@ -34,7 +23,18 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
   
 </details>
   
+<details>
+  <summary>📫 How to reach me</summary>
 
+
+  <a href="https://www.linkedin.com/in/lukajovanovic97/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/jovanobabovic">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</details>
 <!--
 
 Here are some ideas to get you started:
