@@ -17,7 +17,7 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
 | Name                 | A short summary                              | Install   |
 | -------------------- | -------------------------------------------- | --------- |
 | [FITSxtractor](https://github.com/ovanov/FITSxtractor) | Save file metadata to a usable format (csv, xlsx) | [![PyPi](https://img.shields.io/pypi/v/FITSxtractor?color=blue&style=flat-square)](https://pypi.org/project/FITSxtractor/) |
-  [fileconv](https://github.com/ovanov/fileconv) | Convert MS Office files to PDF  | [![PyPi](https://img.shields.io/pypi/v/fileconv?color=blue&style=flat-square)](https://pypi.org/project/fileconv/) |
+  [fileconv](https://github.com/ovanov/fileconv) | Convert MS Office files to PDF  | [![PyPI](https://img.shields.io/pypi/v/fileconv?color=blue&style=flat-square)](https://pypi.org/project/fileconv/) |
   [cosSim](https://github.com/ovanov/cosSim) | Determines similarity percentage of files or directories |[![PyPi](https://img.shields.io/pypi/v/cosSim?color=blue&style=flat-square)](https://pypi.org/project/cosSim/) |
 <!-- | Content Cell         | Content Cell                                | link , Thanks to @alexandresanlim for this very useful details/table md snippet :)-->
   
