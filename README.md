@@ -11,9 +11,7 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
 
 <details>
   <summary>📦 Packages on PyPi</summary><br>
-  
-  
-
+ 
 | Name                 | A short summary                              | Install   |
 | -------------------- | -------------------------------------------- | --------- |
 | [FITSxtractor](https://github.com/ovanov/FITSxtractor) | Save file metadata to a usable format (csv, xlsx) | [![PyPi](https://img.shields.io/pypi/v/FITSxtractor?color=blue&style=flat-square)](https://pypi.org/project/FITSxtractor/) |
@@ -25,16 +23,21 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
   
 <details>
   <summary>📫 How to reach me</summary><br>
-
-
   <a href="https://www.linkedin.com/in/lukajovanovic97/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/jovanobabovic">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+</details>
+
+<details>
+  <summary>🌱 Stats</summary><br>
+  
+  ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovanov)
   
 </details>
+
 <!--
 
 Here are some ideas to get you started:
