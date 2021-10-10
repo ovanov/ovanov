@@ -34,7 +34,9 @@ I'm studying Linguistics and Computational Linguistics at the University of Zuri
 <details>
   <summary>🌱 Stats</summary><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovanov&layout=compact&hide=javascript,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <!--[![ovanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovanov)](https://github.com/ovanov)-->
 
   
 </details>
