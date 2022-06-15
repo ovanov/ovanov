@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Luka 😄
+### Hi there, I'm Luka
 
 
 I have a bachelor's degree Linguistics and Computational Linguistics at the University of Zurich. I work as a software engineer / project lead for [Mindfire](https://www.mindfire.global/) and as a Research Assistant for an NLP project at the University of Zurich. I'm interested in workflow optimization and try to create packages and scripts accordingly.
@@ -34,8 +34,8 @@ I have a bachelor's degree Linguistics and Computational Linguistics at the Univ
 <details>
   <summary>🌱 Stats</summary><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovanov&layout=compact&hide=javascript,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovanov&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
   <!--[![ovanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovanov)](https://github.com/ovanov)-->
 
   
