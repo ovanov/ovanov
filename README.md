@@ -1,11 +1,9 @@
 ### Hi there, I'm Luka
 
 
-I have a bachelor's degree Linguistics and Computational Linguistics at the University of Zurich. I work as a software engineer / project lead for [Mindfire](https://www.mindfire.global/) and as a Research Assistant for an NLP project at the University of Zurich. I'm interested in workflow optimization and try to create packages and scripts accordingly.
+I have a bachelor's degree Linguistics and Computational Linguistics at the University of Zurich. I work as an IT Consultant for [ipt](https://www.ipt.ch/) and as a Research Assistant for an NLP project at the University of Zurich.
 
 
-
-🔭 I’m currently working on real-time know-how network to connect researchers at Mindfire.<br>
 
 ---
 
